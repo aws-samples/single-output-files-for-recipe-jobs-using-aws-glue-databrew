@@ -38,7 +38,7 @@ The schema of the data file is as follow:
  + timestamp : Timestamp of the transaction
  + transaction_date : Transaction date of the transaction
  
-![schema](/image/schema.png)
+![schema](/image/schema.PNG)
 
 ## Security
 
